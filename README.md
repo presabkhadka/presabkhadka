@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @presabkhadka
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and its frameworks
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail:presabkhadka30@gmail.com
 
 
