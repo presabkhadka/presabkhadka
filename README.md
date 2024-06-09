@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @presabkhadka
+- 👋 Hi, I’m Presab Khadka
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and its frameworks
 - 📫 How to reach me gmail:presabkhadka30@gmail.com
