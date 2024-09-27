@@ -1,8 +1,8 @@
 # Hi 👋
 I'm Presab Khadka. I'm a frontend developer from Nepal.
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/presabkhadka) 
+# My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=presabkhadka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 # 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
