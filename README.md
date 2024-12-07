@@ -1,9 +1,6 @@
 # Hi 👋
 Hi there! I'm Presab, a frontend developer passionate about building robust and efficient applications. I'm currently immersed in learning fullstack development
 
-# My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=presabkhadka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 # 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
