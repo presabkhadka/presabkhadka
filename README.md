@@ -1,5 +1,5 @@
 # Hi 👋
-Hi there! I'm Presab, a frontend developer passionate about building robust and efficient applications. I'm currently immersed in learning fullstack development.
+Hi there! I'm Presab, a frontend developer passionate about building robust and efficient applications with React. I'm currently immersed in learning fullstack development.
 
 # 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
