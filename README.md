@@ -1,5 +1,5 @@
 # Hi 👋
-Hi there! I'm Presab, a mern developer passionate about building robust and efficient applications with React. I'm currently immersed in expanding my fullstack development knowledge.
+Hi there! I'm Presab, a MERN developer passionate about building robust and efficient applications with React. I'm currently immersed in expanding my fullstack development knowledge.
 
 # 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
