@@ -1,5 +1,5 @@
 # Hi 👋
-Hi there! I'm Presab, a MERN stack developer passionate about building robust, scalable, and efficient web applications. I enjoy turning complex problems into clean, maintainable code and delivering high-quality solutions tailored to needs.
+Hi there! I'm Rahul, a backend developer passionate about building robust and efficient applications. I'm currently immersed in learning Vendure framework.
 
 # 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -13,6 +13,8 @@ Hi there! I'm Presab, a MERN stack developer passionate about building robust, s
 ![AdonisJS](https://img.shields.io/badge/adonis.js-%236E4AFF.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%230076D6.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48cGF0aCBkPSJNOTQuNTQ3IDYwYy0yLjE2Ny00LjIzNy01LjE0OS03LjY3My05LjE3Mi05Ljg1M0E2Ny45MiA2Ny45MiAwIDAgMCA2MCAyLjg2MUE2Ny45MiA2Ny45MiAwIDAgMCAyNC42MjIgNS42NGE2Ny45NyA2Ny45NyAwIDAgMC0xOS40NDkgMTQuMTFBNjcuOTIgNjcuOTIgMCAwIDAgMy43IDM4LjIxMmMyLjE2NyA0LjIzNyA1LjE0OSA3LjY3MyA5LjE3MiA5Ljg1M0E2Ny45MiA2Ny45MiAwIDAgMCA2MCAxMTcuMTM5YTY3Ljk2IDY3Ljk2IDAgMCAwIDE5LjQ0OS0xNC4xMUE2Ny45MiA2Ny45MiAwIDAgMCAxMTYuMyA4MS43ODJjLjcwOS0xLjQxNiAxLjI3LTIuODgxIDEuNjg4LTQuMzEzQTQwLjkxIDQwLjkxIDAgMCAxIDk0LjU0NyA2MCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
 ![Recoil](https://img.shields.io/badge/recoil.js-%233aaf85.svg?style=for-the-badge&logo=recoil&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NestJS](https://img.shields.io/badge/nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 # 💻 Database:
