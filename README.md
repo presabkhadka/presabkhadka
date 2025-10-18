@@ -1,5 +1,5 @@
 # Hi 👋
-Hi there! I'm Rahul, a backend developer passionate about building robust and efficient applications. I'm currently immersed in learning Vendure framework.
+Hi there! I'm Presab, a backend developer passionate about building robust and efficient applications. I'm currently immersed in learning Vendure framework.
 
 # 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
