@@ -25,9 +25,3 @@ Hi there! I'm Presab, a backend developer passionate about building robust and e
 
 # ✅ Testing:
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-# 💻 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/presabkhadka30/)
-
-
- 
